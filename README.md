@@ -6,7 +6,8 @@ Full Stack Web Development Student
 
 I am in a career transition and have a management degree and currently work as a travel consultant. I have always liked technology as a hobby, so I found at Trybe the opportunity to invest in this area professionally.
 <br>
- About Trybe: "Trybe is a school of the future for anyone who wants to improve their lives and build a successful career in technology, where the person only pays when they get a good job." The program has more than 1,500 hours of classroom and online classes. It covers an introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies, and behavioral skills.
+<br>
+ <b>About Trybe:</b> "Trybe is a school of the future for anyone who wants to improve their lives and build a successful career in technology, where the person only pays when they get a good job." The program has more than 1,500 hours of classroom and online classes. It covers an introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies, and behavioral skills.
 
 * 🌍  I'm based in Niterói, Rio de Janeiro - Brasil
 * ✉️  You can contact me at [davifalmeida@gmail.com](mailto:davifalmeida@gmail.com)
