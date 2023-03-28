@@ -11,8 +11,8 @@ I am in a career transition and have a management degree and currently work as a
 
 * 🌍  I'm based in Niterói, Rio de Janeiro - Brasil
 * ✉️  You can contact me at [davifalmeida@gmail.com](mailto:davifalmeida@gmail.com)
-* 🧠  I'm learning MySQL
-* 🤝  I'm open to collaborating on Front-End projects
+* 🧠  I'm learning Python
+* 🤝  I'm open to collaborating on Full Stack, Back-End and Front-End projects 
 
 ### Skills
 
