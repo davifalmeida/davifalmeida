@@ -4,15 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Development Student
 ----------------------------------
 
-I am in a career transition and have a management degree and currently work as a travel consultant. I have always liked technology as a hobby, so I found at Trybe the opportunity to invest in this area professionally.
+I am in a career transition and have a management degree and currently work as a travel consultant. I have always liked technology as a hobby, so I found at Trybe the opportunity to invest in this area professionally. I recently completed the Full Stack course at Trybe and am now looking for opportunities in the market as a Data Analyst. Currently, I am studying Big Data to further enhance my skills.
+
 <br>
 <br>
- <b>About Trybe:</b> "Trybe is a school of the future for anyone who wants to improve their lives and build a successful career in technology, where the person only pays when they get a good job." The program has more than 1,500 hours of classroom and online classes. It covers an introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies, and behavioral skills.
 
 * 🌍  I'm based in Niterói, Rio de Janeiro - Brasil
 * ✉️  You can contact me at [davifalmeida@gmail.com](mailto:davifalmeida@gmail.com)
-* 🧠  I'm learning CS
-* 🤝  I'm open to collaborating on Full Stack, Back-End and Front-End projects 
+* 🧠  I'm learning CS and Big Data
+* 🤝  I'm open to collaborating on Full Stack, Back-End, Front-End, and Data Analysis projects 
 
 ### Skills
 
