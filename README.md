@@ -1,21 +1,22 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is DAVI ALMEIDA
 ====================================================================================================================================
 
-Full Stack Web Development Student
-----------------------------------
+Full Stack Developer | Data Analytics | Business Intelligence
+--------------------------------------------------------------
 
-I am in a career transition and have a management degree and currently work as a travel consultant. I have always liked technology as a hobby, so I found at Trybe the opportunity to invest in this area professionally. I recently completed the Full Stack course at Trybe and am now looking for opportunities in the market as a Data Analyst. Currently, I am studying Big Data to further enhance my skills.
+I have a degree in management processes and transitioned into the tech industry as a Full Stack Developer since April 2023. My passion for technology, which began as a hobby, led me to complete my Full Stack course at Trybe. In addition, I hold a Google Data Analytics certificate, and I am currently pursuing an MBA in Business Intelligence to expand my skills in data-driven decision-making.
+
+Tenho formação em processos gerenciais e fiz a transição para a área de tecnologia como Desenvolvedor Full Stack desde abril de 2023. Minha paixão por tecnologia, que começou como um hobby, me levou a concluir o curso Full Stack na Trybe. Além disso, possuo o certificado de Google Data Analytics e estou atualmente cursando um MBA em Business Intelligence para aprimorar minhas habilidades em tomada de decisão baseada em dados.
 
 <br>
 <br>
 
 * 🌍  I'm based in Niterói, Rio de Janeiro - Brasil
 * ✉️  You can contact me at [davifalmeida@gmail.com](mailto:davifalmeida@gmail.com)
-* 🧠  I'm learning CS and Big Data
-* 🤝  I'm open to collaborating on Full Stack, Back-End, Front-End, and Data Analysis projects 
+* 🧠  I'm currently focused on Business Intelligence and Data Analytics
+* 🤝  I'm open to collaborating on Full Stack, Back-End, Front-End, and Data Analysis projects
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -28,11 +29,11 @@ I am in a career transition and have a management degree and currently work as a
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 </p>
-<p><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a></p>
-
 
 ### Socials
 
